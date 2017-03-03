@@ -1,0 +1,8 @@
+prefix=/home/moveit/armproject/install
+
+Name: armproject
+Description: Description of armproject
+Version: 0.2.0
+Cflags: 
+Libs: -L/home/moveit/armproject/install/lib 
+Requires: 
